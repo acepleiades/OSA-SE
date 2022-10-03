@@ -1,8 +1,0 @@
-<scene id="0ER|_TOG|OM|F_PantyOnPost" actors="1" style="OSceneTog">
-<togs>
-	<tog0 id="tempStatReq" a="0" block="clothing" vari="pantybunch" req="1">
-		<tog1 cmd="DEST" dest="0ER|FST|D|FST_D_intlow+PantyBunchFix"/>
-	</tog0>	
-	 <tog0 cmd="DEST" dest="0ER|_TOG|OM|ESGRedress"/>
-</togs>
-</scene>
