@@ -1,4 +1,8 @@
 # OSA for OStim
-OSA, the animation framework, is a requirement for OStim, an adult animations mod for Skyrim SE.
-This version of OSA does not conflict with OStim or newer versions of OSA dependencies.
-There are also other changes, including support for non-English characters.
+What's different?
+
+- Added support to Chinese, Japanese, Korean, among other languages.
+- Removed many unused options from the menu.
+- Removed many unused files.
+- Disabled animated redressing.
+- Overall, a better OSA for the purpose of using OStim!
