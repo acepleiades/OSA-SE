@@ -1,0 +1,22 @@
+b -a,Tn 0Eq0ER_POS_Fdef_SI_ST_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\_POS\0Eq0ER_POS_Fdef_SI_ST_0.hkx
+b -a,Tn 0Eq0ER_POS_Fdef_ST_SI_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\_POS\0Eq0ER_POS_Fdef_ST_SI_0.hkx
+
+
+b -a,Tn 0Eq0ER_F_ST_D_intlow_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\intlow\0Eq0ER_F_ST_D_intlow_0.hkx
+
+b -a,Tn 0Eq0ER_F_ST_D_PantyBunchFixV0_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\intlow\post\0Eq0ER_F_ST_D_PantyBunchFixV0_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_PantyBunchFixV1_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\intlow\post\0Eq0ER_F_ST_D_PantyBunchFixV1_0.hkx
+
+
+b -a,Tn 0Eq0ER_F_ST_D_inthigh_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\inthigh\0Eq0ER_F_ST_D_inthigh_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_cuirass_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\cuirass\0Eq0ER_F_ST_D_cuirass_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_pants_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\pants\0Eq0ER_F_ST_D_pants_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_cape_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\cape\0Eq0ER_F_ST_D_cape_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_gloves_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\gloves\0Eq0ER_F_ST_D_gloves_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_misclow_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\misclow\0Eq0ER_F_ST_D_misclow_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_miscmid_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\miscmid\0Eq0ER_F_ST_D_miscmid_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_miscarms_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\miscarms\0Eq0ER_F_ST_D_miscarms_0.hkx
+b -a,Tn 0Eq0ER_F_ST_D_helmet_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\ST\helmet\0Eq0ER_F_ST_D_helmet_0.hkx
+
+b -a,Tn 0Eq0ER_F_SI_D_stockings_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\SI\stockings\0Eq0ER_F_SI_D_stockings_0.hkx
+b -a,Tn 0Eq0ER_F_SI_D_boots_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\F\D\SI\boots\0Eq0ER_F_SI_D_boots_0.hkx

@@ -1,0 +1,7 @@
+b -a,Tn 0Eq0ER_M_ST_D_intlow_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\M\D\ST\intlow\0Eq0ER_M_ST_D_intlow_0.hkx
+b -a,Tn 0Eq0ER_M_ST_D_cuirass_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\M\D\ST\cuirass\0Eq0ER_M_ST_D_cuirass_0.hkx
+b -a,Tn 0Eq0ER_M_ST_D_pants_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\M\D\ST\pants\0Eq0ER_M_ST_D_pants_0.hkx
+b -a,Tn 0Eq0ER_M_ST_D_cape_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\M\D\ST\cape\0Eq0ER_M_ST_D_cape_0.hkx
+b -a,Tn 0Eq0ER_M_ST_D_gloves_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\M\D\ST\gloves\0Eq0ER_M_ST_D_gloves_0.hkx
+b -a,Tn 0Eq0ER_M_ST_D_helmet_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\M\D\ST\helmet\0Eq0ER_M_ST_D_helmet_0.hkx
+b -a,Tn 0Eq0ER_M_ST_D_boots_0 ..\..\..\..\0SA\mod\_ESG\anim\0ER\M\D\ST\boots\0Eq0ER_M_ST_D_boots_0.hkx
