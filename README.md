@@ -1,4 +1,5 @@
 # OSA for OStim
+A fork of OSA's GitHub repository originally posted 4 years ago by the author. Thanks to GitHub's Terms of Service, we can fork and make new releases of it on GitHub. <br>
 What's different? <br>
 - Removed many unused and non-functional options from the menus.
 - Removed many unused files.
