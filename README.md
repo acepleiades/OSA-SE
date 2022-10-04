@@ -1,12 +1,13 @@
 # OSA for OStim
 A fork of OSA's GitHub repository originally posted 4 years ago by the author. Please observe that the GitHub ToS allows the forking and further development of public repositories, solely through GitHub functionality. See "License" at the bottom.
 What's different? <br>
--Removed old versions of dependencies and conflicts with OStim.
--Removed many unused and non-functional options from the menus.
--Removed many unused files.
--Disabled animated redressing.
--Added support to Chinese, Japanese, Korean, among other languages.
--Overall, a better OSA for the purpose of using OStim!
+
+- Removed old versions of dependencies and conflicts with OStim.
+- Removed many unused and non-functional options from the menus.
+- Removed many unused files.
+- Disabled animated redressing.
+- Added support to Chinese, Japanese, Korean, among other languages.
+- Overall, a better OSA for the purpose of using OStim!
 
 # How was this done?
 Most changes were made by editing OSA.swf with JPEXS Free Flash Decompiler. <br>
